@@ -2,6 +2,13 @@ package josivaldo.jutils.rank;
 
 import org.bukkit.entity.Player;
 
+/**
+ * Esse projeto é público, por isso se encontra no github.
+ * 
+ * @author carli
+ *
+ */
+
 public class RankAPI {
 	
 	public static String ceo = "§4§lCEO";
